@@ -4,7 +4,7 @@
 # 👥 Prepared by:
 ## 1,Abel Debalke----ATE/0668/15
 ## 2,Ephratha Samuel----ATE/2652/15
-## 3,Kaleab Adane----ATE/5365/15
+## 3,Kaleab Adane----ATE/5365/13
 ## 4,Natnael T/Michael----ATE/5455/15
 ## 5,Yaphet Benyam Ayalew----ATE/8841/13
 
