@@ -7,6 +7,7 @@
 ## 3,Kaleab Adane----ATE/5365/13
 ## 4,Natnael T/Michael----ATE/5455/15
 ## 5,Yaphet Benyam Ayalew----ATE/8841/13
+## 6,Helina Tesfaye----ATE/1540/15
 
 ## 📝 Project Description
 A lightweight Git-like version control system implemented from scratch in C++. MiniGit tracks file changes, manages commits, handles branching/merging, and maintains revision history - all without external libraries.
